@@ -1,0 +1,9 @@
+.jaySpinner-up, .jaySpinner-down
+{
+  width:18px;
+  text-align :center;
+  cursor: pointer;
+}
+ 
+.jaySpinner-up { color: green; }
+.jaySpinner-down { color :red; }
